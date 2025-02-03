@@ -37,10 +37,10 @@ Feb 7, 2025 11:00 AM CST - 2:00 PM CST
 
 ### Integrating with PostgreSQL Database
 
-- [Register for ElephantSQL](https://www.elephantsql.com/) 
 - [Fluent Documentation](https://docs.vapor.codes/fluent/overview/) 
 - Configuring Fluent Driver 
 - Implementing Models 
+- Migrations
 - Adding Relationships 
 
 ### Consuming API Using SwiftUI Client 
