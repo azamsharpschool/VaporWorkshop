@@ -19,8 +19,10 @@ Feb 7, 2025 11:00 AM CST - 2:00 PM CST
 - [Install brew](https://brew.sh/) 
 - [Install Vapor](https://docs.vapor.codes/install/macos/)
 - Install a Networking Tool ([Postman](https://www.postman.com/))
-- [Vapor Discord Community](https://discord.com/invite/vapor)
 - [BeeKeeper Community Edition](https://github.com/beekeeper-studio/beekeeper-studio/releases/)
+- [Postgres App](https://postgresapp.com/) 
+- [Vapor Discord Community](https://discord.com/invite/vapor)
+
 
 ### Routing 
 
