@@ -1,5 +1,13 @@
 # Vapor Workshop 
 
+![Vapor Logo](logo.png)
+
+Welcome to the Introduction to Server Side Swift Workshop!
+
+This workshop is designed to introduce you to the fundamentals of backend development using the Vapor framework. From setting up Vapor on your machine to integrating it with databases, we'll guide you through each step with practical, hands-on projects.
+
+By the end of this workshop, you'll have gained the essential skills to set up your own server and seamlessly integrate it into your iOS applications.
+
 ### When 
 August 22, 2025 11:00 AM CST - 2:00 PM CST 
 
