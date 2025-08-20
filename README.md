@@ -1,10 +1,10 @@
 # Vapor Workshop 
 
 ### When 
-Feb 7, 2025 11:00 AM CST - 2:00 PM CST 
+August 22, 2025 11:00 AM CST - 2:00 PM CST 
 
 ### Where 
-[Join the Meeting](https://us06web.zoom.us/j/85903372078?pwd=IajLbqZQSn8YG0k9ynkYRxtbI27R2h.1)
+[Join the Meeting](https://us06web.zoom.us/j/83472806126?pwd=qVc7iEtIzCz5ACLXjSSUztVjysFw2q.1)
 
 ### Prerequisites 
 
@@ -54,5 +54,5 @@ Feb 7, 2025 11:00 AM CST - 2:00 PM CST
 - Deleting a Movie 
 
 ### Source Code 
-- [Download SwiftUI Client Final Project](MoviesClient.zip)
-- [Download Vapor Server Final Project](movies-app.zip) 
+- [Download SwiftUI Client Final Project](MoviesApp.zip)
+- [Download Vapor Server Final Project](hello-vapor.zip) 
